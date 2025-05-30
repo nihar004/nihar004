@@ -98,14 +98,18 @@ Passionate about building scalable AI solutions, interactive learning tools, and
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nihar004&layout=compact&theme=radical&hide_border=true)
 
-💡 Fun Facts About Me
+## 💡 Fun Facts About Me
+
 <div align="center">
-🎯 I turn complex algorithms into visual masterpieces
-🚀 I've optimized waste collection for an entire city
-🤖 My AI models recognize number plates better than humans
-⛑️ I invented a helmet that could save miners' lives
-🎮 I believe learning should be as fun as gaming
+
+🎯 I turn complex algorithms into visual masterpieces  
+🚀 I've optimized waste collection for an entire city  
+🤖 My AI models recognize number plates better than humans  
+⛑️ I invented a helmet that could save miners' lives  
+🎮 I believe learning should be as fun as gaming  
+
 </div>
+---
 
 ## 📫 Let's Connect!
 
