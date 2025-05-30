@@ -1,175 +1,105 @@
 # 👋 Hi there, I'm Nihar Singla!
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&width=500&lines=AI+%26+Software+Engineer;Full-Stack+Developer;Real-Time+Systems+Expert;IoT+Innovation+Enthusiast)](https://git.io/typing-svg)
-
-</div>
-
-```
-    ╔══════════════════════════════════════════════════════════════╗
-    ║  Entry-Level AI Engineer • Full-Stack Developer             ║
-    ║  Specialized in Real-Time Systems & Visual Learning         ║
-    ║  Building tomorrow's solutions with today's technology       ║
-    ╚══════════════════════════════════════════════════════════════╝
-```
-
 ## 🚀 About Me
+I'm an **Entry-Level AI & Software Engineer** and **Full-Stack Developer** specialized in **Real-Time Systems** and **Visual Learning Platforms**. Currently pursuing B.Tech in CSE at BML Munjal University with a CGPA of 9.47 (2nd in batch).
 
-I'm pursuing **B.Tech in CSE** at BML Munjal University with **CGPA 9.47** (2nd in batch). Passionate about building scalable AI solutions, interactive learning tools, and IoT systems that solve real-world problems.
-
-**🎯 Current Focus:** Real-time computer vision, algorithm visualization, and IoT safety systems.
+Passionate about building scalable AI solutions, interactive learning tools, and IoT systems that solve real-world problems.
 
 ## 🛠️ Tech Stack & Skills
 
-<details>
-<summary><strong>💻 Programming Languages</strong></summary>
+### Programming Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-```text
-Python     ████████████████████░   95%  • AI/ML, FastAPI, Computer Vision
-Java       ████████████████░░░░░   80%  • Spring Boot, Backend Development  
-C++        ███████████████░░░░░░   75%  • System Programming, DSA
-JavaScript █████████████████░░░░   85%  • React, Next.js, Three.js
-SQL        ██████████████░░░░░░░   70%  • PostgreSQL, MySQL, MongoDB
-```
-</details>
+### Frameworks & Libraries
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
 
-<details>
-<summary><strong>🚀 Frameworks & Libraries</strong></summary>
+### AI & Computer Vision
+![YOLOv8](https://img.shields.io/badge/-YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black)
+![Tesseract OCR](https://img.shields.io/badge/-Tesseract_OCR-4285F4?style=flat-square&logo=google&logoColor=white)
+![OR-Tools](https://img.shields.io/badge/-OR--Tools-4285F4?style=flat-square&logo=google&logoColor=white)
 
-| Frontend | Backend | AI/CV | Cloud/DevOps |
-|----------|---------|-------|--------------|
-| ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) | ![YOLOv8](https://img.shields.io/badge/-YOLOv8-00FFFF?style=flat-square&logoColor=black) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) | ![GCP](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) |
-| ![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=white) | ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) | ![OR-Tools](https://img.shields.io/badge/-OR--Tools-4285F4?style=flat-square&logoColor=white) | ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white) |
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-</details>
+### Databases
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 ## 🌟 Featured Projects
 
 ### 🎮 [AlgoPlayground](https://algoplayground.vercel.app) 
-```
-┌─────────────────────────────────────────────────────────────┐
-│ Interactive DSA Visualization Tool • Jan 2025              │
-│ ─────────────────────────────────────────────────────────── │
-│ ✨ Real-time 3D animations with step-by-step walkthroughs  │
-│ 🎯 Supports 4 programming languages + dynamic input        │
-│ 🎨 Custom 3D assets in Blender + GSAP animations          │
-│ 🔧 Next.js • React • Three.js • Framer Motion             │
-└─────────────────────────────────────────────────────────────┘
-```
+**Interactive DSA Visualization Tool** • *Jan 2025*
+- Built real-time 3D animations with step-by-step algorithm walkthroughs
+- Supports 4 programming languages with dynamic input configuration
+- Designed 3D assets in Blender, animated with GSAP and Framer Motion
+- **Tech:** Next.js, React, Three.js, Blender, Framer Motion, GSAP
 
 ### 🚗 CarSight - AI Number Plate Recognition
-```
-┌─────────────────────────────────────────────────────────────┐
-│ Real-time Vehicle Detection • VehicleCare Internship       │
-│ ─────────────────────────────────────────────────────────── │
-│ 📈 Boosted OCR accuracy: 27% → 58% on real datasets       │
-│ 🤖 YOLOv8 + Tesseract + Google Vertex AI integration      │
-│ ☁️  Containerized FastAPI deployed on Google Cloud         │
-│ 🏗️  Python • Docker • Nginx • SSL                         │
-└─────────────────────────────────────────────────────────────┘
-```
+**Real-time Vehicle Detection System** • *VehicleCare Internship*
+- Engineered using YOLOv8 and OCR (Tesseract + Google Vertex AI)
+- Boosted OCR accuracy from 27% to 58% on real-world datasets
+- Deployed containerized FastAPI backend on Google Cloud
 
 ### ⛑️ Smart Miners Security Helmet
-```
-┌─────────────────────────────────────────────────────────────┐
-│ IoT Safety Solution • Patent Applied • Aug 2024           │
-│ ─────────────────────────────────────────────────────────── │
-│ 🛡️  Gas, temperature & motion sensors with ESP32          │
-│ 📍 Real-time GPS tracking via Google Maps API             │
-│ 🚨 Emergency alerts using IFTTT + Firebase                │
-│ 💡 Fall detection & light adaptation systems              │
-└─────────────────────────────────────────────────────────────┘
-```
+**IoT Safety Solution** • *Patent Applied*
+- Integrated gas, temperature, and motion sensors with ESP32 and SIM800H
+- Real-time GPS tracking via Google Maps API and emergency alerts
+- Fall detection and light adaptation for hazardous environments
 
 ### 🗑️ Intelligent Urban Waste Management
-```
-┌─────────────────────────────────────────────────────────────┐
-│ AI Route Optimization • Currently trialing in Indore      │
-│ ─────────────────────────────────────────────────────────── │
-│ 🧠 Multiple Traveling Salesman Problem solver             │
-│ 🗺️  Google OR-Tools + GIS for truck optimization          │
-│ 📊 Data collection via Google 3D Street View              │
-│ 💰 Reduces fuel consumption & operational costs           │
-└─────────────────────────────────────────────────────────────┘
-```
+**AI-Powered Route Optimization** • *Currently trialing in Indore*
+- Used Google OR-Tools and GIS for truck requirement calculation
+- Applied Multiple Traveling Salesman Problem for route optimization
+- Collected data via Google 3D Street View for waste point mapping
 
 ## 💼 Professional Experience
 
 **AI Developer Intern** @ VehicleCare, Gurugram *(May 2024 - July 2024)*
-```
-• Engineered CarSight real-time number plate recognition system
-• Built AI-driven insurance claim validator (PDF parsing + OCR)
-• Architected containerized deployment on Google Cloud Platform
-• Successfully transitioned prototype to production team
-```
+- Developed CarSight real-time number plate recognition system
+- Built AI-driven insurance claim validator with PDF parsing + OCR
+- Architected containerized deployment on Google Cloud Platform
 
 ## 🎓 Education & Achievements
 
-```
-┌─ Education ──────────────────┬─ Achievements ─────────────────────────┐
-│ B.Tech CSE @ BML Munjal Univ │ 🥈 2nd in Batch (CGPA 9.47)           │
-│ 2022-2026                    │ 🏆 ML/OS/IoT Topper                   │
-│ CGPA: 9.47/10                │ 🚀 Sustainable Hackathon Finalist     │
-│                              │ 📋 Patent Applied (Smart Helmet)      │
-└──────────────────────────────┴────────────────────────────────────────┘
-```
+**B.Tech in Computer Science Engineering** @ BML Munjal University *(2022-2026)*
+- **CGPA: 9.47** (2nd in batch)
+- **Academic Toppers:** ML/OS/IoT subjects
+- **Hackathons:** Sustainable Hackathon Finalist (2023, 2024)
 
-## 📊 Dynamic Activity Overview
+## 🌟 Most Used Languages
 
-```mermaid
-%%{init: {'theme':'dark'}}%%
-gitgraph
-    commit id: "Started B.Tech (2022)"
-    commit id: "Hackathon Finalist (2023)"
-    commit id: "VehicleCare Internship (2024)"
-    commit id: "Patent Applied (2024)"
-    commit id: "AlgoPlayground Launch (2025)"
-    commit id: "Ready for Full-time (2025)"
-```
-
-## 🎯 Current Focus
-
-<div align="center">
-
-| 🔥 Working On | 📚 Learning | 🎯 Next Goals |
-|:-------------:|:-----------:|:-------------:|
-| AlgoPlayground v2.0 | Advanced Computer Vision | AI Engineer Role |
-| IoT Security Systems | System Design Patterns | Open Source Contributions |
-| Waste Management Deployment | Cloud Architecture | Build Impactful Products |
-
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nihar004&layout=compact&theme=radical&hide_border=true)
 
 ## 📫 Let's Connect!
 
-<div align="center">
+[![Email](https://img.shields.io/badge/-niharsingla001@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niharsingla001@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nihar-singla001)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nihar004)
+[![Phone](https://img.shields.io/badge/-+91--9817157589-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919817157589)
 
-[![Email](https://img.shields.io/badge/Email-niharsingla001@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niharsingla001@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nihar--singla001-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nihar-singla001)
-[![Phone](https://img.shields.io/badge/Phone-+91--9817157589-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919817157589)
-[![Portfolio](https://img.shields.io/badge/Portfolio-AlgoPlayground-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://algoplayground.vercel.app)
+## ☕ Support My Work
+If you find my projects helpful, consider buying me a coffee! ☕
 
-</div>
-
-## ☕ Support My Innovation
-
-<div align="center">
-
-If my projects inspire you or help in your learning journey, consider supporting my work! ☕
-
-[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/nihar004)
-
-</div>
+[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/niharlc004e)
 
 ---
+💡 *"Building tomorrow's solutions with today's technology"*
 
-<div align="center">
-
-### 💡 *"Code is poetry written in logic"*
-
-![Profile Views](https://komarev.com/ghpvc/?username=nihar004&color=brightgreen&style=flat-square)
-
-**⭐ From [nihar004](https://github.com/nihar004) • Building the future, one commit at a time**
-
-</div>
+⭐️ From [nihar004](https://github.com/nihar004)
