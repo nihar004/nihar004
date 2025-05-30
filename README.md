@@ -12,7 +12,6 @@
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-## 🚀 About Me
 I'm an **Entry-Level AI & Software Engineer** and **Full-Stack Developer** specialized in **Real-Time Systems** and **Visual Learning Platforms**. Currently pursuing B.Tech in CSE at BML Munjal University with a CGPA of 9.47 (2nd in batch).
 
 Passionate about building scalable AI solutions, interactive learning tools, and IoT systems that solve real-world problems.
