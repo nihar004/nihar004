@@ -103,7 +103,7 @@ Passionate about building scalable AI solutions, interactive learning tools, and
 ## ☕ Support My Work
 If you find my projects helpful, consider buying me a coffee! ☕
 
-[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/nihar004)
+[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/niharlc004e)
 
 ---
 💡 *"Building tomorrow's solutions with today's technology"*
