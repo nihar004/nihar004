@@ -100,7 +100,7 @@ Passionate about building scalable AI solutions, interactive learning tools, and
 
 ## 💡 Fun Facts About Me
 
-<div align="center">
+<div align="left">
 
 🎯 I turn complex algorithms into visual masterpieces  
 🚀 I've optimized waste collection for an entire city  
@@ -109,7 +109,6 @@ Passionate about building scalable AI solutions, interactive learning tools, and
 🎮 I believe learning should be as fun as gaming  
 
 </div>
----
 
 ## 📫 Let's Connect!
 
