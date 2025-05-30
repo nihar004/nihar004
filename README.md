@@ -1,5 +1,17 @@
 # 👋 Hi there, I'm Nihar Singla!
 
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=AI+%26+Software+Engineer;Full-Stack+Developer;Real-Time+Systems+Specialist;Visual+Learning+Platform+Creator;IoT+Innovation+Enthusiast)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## 🚀 About Me
+
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 ## 🚀 About Me
 I'm an **Entry-Level AI & Software Engineer** and **Full-Stack Developer** specialized in **Real-Time Systems** and **Visual Learning Platforms**. Currently pursuing B.Tech in CSE at BML Munjal University with a CGPA of 9.47 (2nd in batch).
 
@@ -44,7 +56,7 @@ Passionate about building scalable AI solutions, interactive learning tools, and
 
 ## 🌟 Featured Projects
 
-### 🎮 [AlgoPlayground](https://algoplayground.vercel.app) 
+### 🎮 [AlgoPlayground](https://algoplayground.vercel.app/category) 
 **Interactive DSA Visualization Tool** • *Jan 2025*
 - Built real-time 3D animations with step-by-step algorithm walkthroughs
 - Supports 4 programming languages with dynamic input configuration
